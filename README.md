@@ -17,7 +17,7 @@ uses the inputs on ui_in:
 * ui_in[7] - backspace / clear current morse input
 
 ## features
-morse decoder: maps combinations of dots/dashes to letters A-Z and numbers 0-9. invalid codes show as ?.
+* morse decoder: maps combinations of dots/dashes to letters A-Z and numbers 0-9. invalid codes show as ?.
 
 * live preview: shows the dots and dashes you are typing at the bottom of the screen before submitting.
 
