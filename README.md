@@ -1,4 +1,4 @@
-#vga morse code writer
+# vga morse code writer
 this project is a morse code text editor made in verilog for tiny tapeout. you type morse code using the inputs and it converts it into letters/numbers on a vga display screen.
 
 it stores up to 256 characters in memory and shows a preview of your dots and dashes on the bottom left before you send the character to the main text area.
